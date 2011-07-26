@@ -7,5 +7,5 @@ Apprentice Ruby Wizardry
 
 License
 -------
-      [http://tomlea.co.uk/WTFBPPL.txt]
+      [Beer/Pizza public License](http://tomlea.co.uk/WTFBPPL.txt)
 
